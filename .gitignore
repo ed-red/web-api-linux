@@ -59,6 +59,7 @@ front/Thumbs.db
 .env
 front/.env
 back/.env
+.vagrant
 
 # arquivos mac
 .DS_Store
